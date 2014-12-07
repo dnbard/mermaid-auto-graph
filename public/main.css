@@ -1,0 +1,37 @@
+.container{
+    padding: 75px 0 0 0;
+}
+
+textarea{
+    min-height: 225px;
+}
+
+body{
+    font-size: 14pt;
+    background: #303030;
+    color: white;
+}
+
+.label{
+    color: rgb(95, 95, 95);
+}
+
+.markdown{
+    text-align: left;
+    background: gray;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+.mermaid{
+    background: #73A53E;
+    border-radius: 4px;
+    margin: 15px 0;
+}
+
+input, pre{
+    background: #73A53E;
+    border: 0;
+    color: white;
+}
