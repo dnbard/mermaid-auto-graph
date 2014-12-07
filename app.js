@@ -1,6 +1,6 @@
 var express = require('express');
 var app = express();
-var config = require('./config') || {};
+var config = require('./config');
 var mongoose = require('mongoose');
 var bodyParser = require('body-parser');
 
